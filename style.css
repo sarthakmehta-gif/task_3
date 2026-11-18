@@ -1,0 +1,27 @@
+body{
+    background-color:chocolate;
+}
+.head{
+    color:rgb(0, 0, 255)
+}
+#bglime{
+    background-color: lime;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+#p2{
+    color: black;
+    font-size: 50px;
+}
+a[href*="google"]{
+    color:chartreuse;
+    background-color: yellow;
+}
+a[href*="amazon"]{
+    color: blue;
+    background-color: blueviolet;
+}
